@@ -1,0 +1,10 @@
+com/example/demo/queue/spi/MessageQueue.class
+com/example/demo/DemoApplication.class
+com/example/demo/consumer/Consumer.class
+com/example/demo/producer/spi/ProducerQueue.class
+com/example/demo/model/WorkResponse.class
+com/example/demo/model/IWorkHandler.class
+com/example/demo/queue/spi/QueueManager.class
+com/example/demo/queue/impl/QueueManagerImpl.class
+com/example/demo/producer/impl/ProducerQueueImpl.class
+com/example/demo/queue/impl/MessageQueueImpl.class
